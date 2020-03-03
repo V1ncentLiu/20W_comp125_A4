@@ -1,2 +1,13 @@
-body{}
-h1{}
+body{
+    width: 50%;
+    margin: auto;
+}
+h1{
+    
+}
+table{
+    margin: auto;
+}
+input{
+    width: 300px;
+}
